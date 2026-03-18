@@ -1,4 +1,4 @@
-This project was built by following the Coding Jesus tutorial on order book implementation in C++ to gain an understanding of oderbook logic. Main.cpp was created independently.
+This project is aimed to build an order book implementation in C++ to gain an understanding of oderbook logic.
 Concepts learnt and implemented in this project are:-
 # ORDERBOOK
 It is a live list of buy and sell orders at different price levels which is used by exchanges to match sellers and buyers. It is an important indicator of market depth. The buy orders are called bids and sell orders are asks.
